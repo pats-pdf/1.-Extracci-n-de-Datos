@@ -1,0 +1,64 @@
+BDC ,Fecha,Nombre Cliente ,Estatus de Lead,Potencial de compra,PDM,SDC,Venta,Asesor Asignado
+Antonio,,Johann Arevalo Zaragoza,Activo,0.6,1.0,1.0,0.0,Alan
+Ana,,Alejandro Valentin,Activo,0.6,0.0,0.0,0.0,Alan
+Ana,,"Maria  Dolores , Rueda ",Activo,0.6,0.0,0.0,0.0,Ignacio
+Ana,,Nahum Montiel,Activo,0.5,0.0,0.0,0.0,Alan
+Antonio,,Juan,Activo,0.6,1.0,0.0,0.0,Alan
+Antonio,,Comercializadora   Y Distribuidora,Activo,0.8,1.0,1.0,0.0,Alan
+Ana,,Juan Aguilar Moreno ,Activo,0.6,0.0,0.0,0.0,Mercedes
+Ana,,Jorge Luis,Activo,0.7,0.0,0.0,0.0,Mercedes
+Ana ,,Ricardo,Activo,0.6,0.0,0.0,0.0,Mercedes
+Antonio,,Miguel Angel Cuenca Perez,Activo,0.8,1.0,1.0,0.0,Alan
+Ana,,Eloy Perez Gracia,Activo,0.8,1.0,0.0,0.0,Alan
+Antonio,,Oscar Campech,Activo,0.6,1.0,0.0,0.0,Julio Cesar
+Ana,,Levy Carrillo,Activo,0.8,1.0,0.0,0.0,Julio Cesar
+Antonio,,Monserrat Vivar Garcia,Activo,0.8,1.0,0.0,0.0,Aurelio
+Ana,,Erwin Castaneda  ,Activo,0.7,1.0,0.0,0.0,Pedro Antonio
+Ana ,,Adriel Zenteno,Activo,0.7,0.0,0.0,0.0,
+Antonio,,Mary Luz Carrillo Eliosa,,0.7,1.0,0.0,0.0,Marcos
+Ana,,Sergio   Contreras ,Activo,0.6,0.0,0.0,0.0,Maurico
+Antonio,,Alejandro Huerta Fuentes,Activo,0.8,1.0,1.0,0.0,Victor
+Antonio,,Felipe Sanchez/sigmundo,Activo,0.8,1.0,1.0,0.0,Victor
+Antonio,,Salvador Flores,Activo,0.8,1.0,1.0,0.0,Aurelio
+Antonio,,Marco Antonio  Altamirano Conde ,Activo,0.8,1.0,0.0,0.0,Victor
+Ana ,,Josue  Heron  Lopez,Activo,0.8,0.0,1.0,0.0,Aurelio
+Ana,,Yoni Maravilla,Activo,0.8,1.0,0.0,0.0,Aurelio
+Antonio,,German Leon Sanchez,Activo,0.8,0.0,0.0,0.0,Alan
+Ana ,,Eddie Fb ,Activo,0.8,0.0,1.0,0.0,Pedro
+Antonio,,ISACHIFT117,Activo,0.7,0.0,1.0,0.0,Marcos
+Antonio,,Gaviota Alvarez,Activo,0.8,0.0,1.0,0.0,Marcos
+Ana,,Carlos Leonel  Bautista  ,Activo,0.8,0.0,1.0,0.0,Mauricio
+Ana,,Marcos  Maldonado ,Activo,0.6,0.0,1.0,0.0,Julio
+Ana,,"Edmon   Abdala ,  ",Activo,0.8,0.0,0.0,0.0,Pedro
+Ana ,,Antelmo Flores Guevara,Activo,0.8,0.0,0.0,0.0,Ignacio
+Ana,,Jose Eduardo Alonso ,Activo,0.6,0.0,1.0,0.0,Aurelio 
+Antonio,,Omar Aguilar Teyssier,Activo,0.8,1.0,1.0,0.0,Pedro
+Ana ,,Sarai Ruiz,Activo,0.8,1.0,1.0,0.0,Pedro
+Ana ,,Jesus Colorado,Activo,0.8,1.0,1.0,0.0,Pedro
+Ana ,,"Juan Manuel Mendoza, Hernandez",Activo,0.8,0.0,1.0,0.0,Julio
+Antonio,,Martha Fernanda Garcia,Activo,0.8,1.0,1.0,0.0,Pedro
+Ana,,Clau,Activo,0.5,0.0,0.0,0.0,Mauricio
+Antonio,,Javier Garcia Amaya,Activo,0.6,0.0,1.0,0.0,Aurelio
+Ana,,"Joaquin Rodrigo Arias, Rios",Activo,0.5,1.0,0.0,0.0,Julio
+Ana ,,Jesus Monreal,Activo,0.8,1.0,1.0,0.0,Mauricio
+Ana,,Carlos Rodriguez Perez Rodr?guez P?rez ,Activo,0.7,1.0,0.0,0.0,Aurelio
+Ana ,,Julio Cesar Vega ,Activo,0.7,0.0,1.0,0.0,Aurelio
+Ana,,Ivan Garcia,Activo,0.8,1.0,1.0,0.0,Pedro
+Antonio,,Jose De Jesus  Perez,Activo,0.8,0.0,1.0,0.0,Pedro
+Ana,,Ricardo  Arenas,Activo,0.8,0.0,1.0,0.0,Aurelio
+Ana,,"Miguel  Irigoyen, ",Activo,0.7,0.0,0.0,0.0,Mauricio 
+Antonio,,Rene Angel Bellizzi ,Activo,0.8,0.0,1.0,0.0,Victor
+Ana,,Laura Ivonne Martinez ,Activo,0.8,0.0,1.0,0.0,Pedro
+Ana,,Alejandro Olivares,Activo,0.6,0.0,1.0,0.0,Mercedes
+Antonio,,Felipe  Tepale,Activo,0.8,0.0,1.0,0.0,Ignacio
+Antonio,,Juan Carlos Miguel ,Activo,0.8,0.0,0.0,0.0,Victor
+Ana,,Jesus Manuel  Rios,Activo,0.6,0.0,1.0,0.0,Mauricio 
+Antonio,,Nicolas Contreras,Activo,0.8,0.0,0.0,0.0,Pedro
+ana,,"Jose De Jesus  Perez , ",Activo,0.8,1.0,0.0,0.0,Pedro
+Antonio,,"Jose Miguel  Cosme, Martinez",Activo,0.8,0.0,0.0,0.0,Aurelio
+Ana,,Juan Aguilar Moreno ,Activo,0.8,0.0,1.0,0.0,Mercedes
+Ana,,Adriel Zenteno ,Activo,0.8,0.0,0.0,0.0,Ana
+Antonio,,Jose Eduardo Toriz Bustos ,Activo,0.8,1.0,0.0,0.0,Alan
+Ana,,VANNESSA LIZETTE PEREZ CARRANZA,Activo,0.7,0.0,1.0,0.0,Mauricio
+Ana,,Juan  Lopez Cruz ,Activo,0.8,0.0,0.0,0.0,Ricardo
+Antonio,,NADIA LOPEZ GABRIEL,Activo,0.8,0.0,0.0,1.0,Mauricio

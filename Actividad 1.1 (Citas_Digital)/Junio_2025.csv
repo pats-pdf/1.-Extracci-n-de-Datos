@@ -1,0 +1,27 @@
+BDC ,Fecha,Nombre Cliente ,Estatus de Lead,Potencial de compra,PDM,SDC,Venta,Asesor Asignado
+Saul ,,Aldo Segura ,Finalizado ,0.8,1.0,1.0,0.0,Ricardo 
+Antonio,,Vladimir,activo,0.7,1.0,0.0,0.0,Pedro
+Antonio ,,Daniel,Acitvo ,0.8,1.0,0.0,0.0,Sergio Raymundo
+Saul,,Francisco Santander ,Finalizado,0.9,1.0,0.0,0.0,Alan
+Saul ,,Dulce Elizabeth ,Activo ,0.9,1.0,1.0,1.0,Pedro
+Saul ,,Fernando ,Venta ,0.9,1.0,1.0,1.0,Alan 
+Antonio,,Sergio Figueroa,Venta ,0.85,1.0,1.0,1.0,Sergio Raymundo
+Antonio,,Osvaldo Peña ,Acitvo ,0.75,1.0,1.0,0.0,Ricardo 
+Saul ,,Aldo Perz ,Activo ,0.8,0.0,0.0,0.0,Mauricio 
+Saul ,,David ,Venta ,0.9,1.0,0.0,1.0,Pedro 
+Saul ,,Manuel Portillo,Finalizado ,0.7,0.0,0.0,0.0,Gerencia 
+Antonio,,Jaime Juarez,Acitvo ,0.05,1.0,1.0,0.0,Mauricio 
+Antonio,,Pedro Jesus  Pestana Castillo ,Acitvo ,0.7,1.0,1.0,0.0,Victor 
+Antonio,,Maximo Fernandez/Fabiana,Venta ,0.9,1.0,1.0,1.0,Pedro 
+Saul ,,Anabell,Venta,0.9,1.0,1.0,1.0,Pedro
+Antonio,,Benjamin/ Element empresa,Venta ,0.9,1.0,1.0,1.0,Alan
+Antonio,,Luis Carlos Gomez ,Activo,0.5,1.0,1.0,0.0,Marcos Coca
+Antonio,,Jesus Morales,Venta ,0.7,1.0,1.0,1.0,Victor
+Saul ,,Rossana ,Finalizado ,0.8,1.0,1.0,0.0,Miguel
+Antonio ,,Parmenides Ortiz,Acitvo ,0.7,1.0,1.0,0.0,Victor
+Antonio,,Miguel Angel,Acitvo ,0.7,1.0,1.0,0.0,Mauricio 
+Saul,,Jose Miguel,Activo,0.7,1.0,0.0,0.0,Mauricio
+Antonio,,Olivia rascon sosa,Acitvo ,0.6,1.0,1.0,1.0,Mauricio
+Antonio,,Mireya Eugenia Ceron,Acitvo ,0.6,1.0,1.0,1.0,Victor
+Antonio,,Arturo Alcantar,Acitvo ,0.7,1.0,1.0,0.0,Aurelio 
+Saul ,,Hugo,Activo ,0.6,0.0,0.0,0.0,Alan 

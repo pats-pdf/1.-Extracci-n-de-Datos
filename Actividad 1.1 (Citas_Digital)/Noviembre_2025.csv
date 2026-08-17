@@ -1,0 +1,53 @@
+BDC ,Fecha,Nombre Cliente ,Estatus de Lead,Potencial de compra,PDM,SDC,Venta,Asesor Asignado
+Ana,,Alexis  Palestina ,Activo,0.8,0.0,1.0,0.0,Omar
+Ana,,Vanessa  Maza ,Activo,0.8,1.0,1.0,0.0,Alvaro
+Ana,,"Hugo Jorge  , ",Activo,0.7,1.0,1.0,1.0,Pedro Antonio
+Ana,,"David  Torres , Ramirez ",Activo,0.8,0.0,0.0,0.0,Mauricio
+Ana,,Yasmin Galindo ,Activo,0.8,0.0,1.0,0.0,Mauricio
+Ana,,Ricardo  Martinez Tepox ,Activo,0.8,0.0,1.0,0.0,Mauricio
+Ana,,Ari  Valero ,Activo,0.8,0.0,0.0,0.0,Victor
+Ana,,Guadalupe Hernandez ,Activo,0.8,1.0,1.0,0.0,Pedro Antonio
+Ana,,Humberto Calixto,Activo ,0.8,1.0,1.0,0.0,Aurelio
+Antonio,,Isidro Ramos,Activo,0.6,1.0,0.0,0.0,Victor
+Antonio,,Jose Alberto ,Activo,0.6,1.0,0.0,0.0,Victor
+Antonio,,Andrea Hernandez Reyes,Activo,0.7,0.0,1.0,0.0,Pedro Antonio
+Antonio,,Manuel Rodriguez ,Activo,0.8,1.0,0.0,0.0,Alvaro
+Antonio,,José Iván Sánchez Pérez,Activo,0.8,0.0,1.0,0.0,Aurelio
+Antonio,,Octavio Arvea,Activo,0.7,0.0,1.0,0.0,Aurelio
+Ana,,Mario Negrete Juarez ,Activo,0.7,0.0,1.0,0.0,Aurelio
+Ana,,Juan Gonzales ,Activo,0.7,0.0,1.0,0.0,Alan
+Ana,,Marcial   Sanchez   ,Activo,0.8,0.0,0.0,0.0,Aurelio
+Ana,,Jesus Ivan Ibarra Robles,Activo,0.8,1.0,0.0,0.0,Aurelio
+Ana,,Juan Antonio  Cid  Reynoso  ,Activo,0.7,0.0,1.0,0.0,Victor
+Ana,,Cesar Cabrera Ortega ,Activo,0.7,0.0,1.0,0.0,Victor
+Ana,,Jose De Jesus  Franco Saldana ,Activo,0.7,0.0,0.0,0.0,Ricardo 
+Ana,,Jose C Tecnom ,Activo,0.8,0.0,1.0,0.0,Mauricio
+Ana,,Rene Beguerisse Torres,Activo,0.7,0.0,0.0,0.0,Mauricio
+Antonio,,Jose Ramon Marquez,Activo,0.7,0.0,0.0,0.0,Mauricio
+Antonio,,Ramsey Tecnom,Activo,0.6,0.0,0.0,0.0,Mauricio
+Ana,,Jorge Ariza,Activo,0.9,1.0,1.0,0.0,Victor
+Ana,,"Manuel  Vinaz, ",Activo,0.9,1.0,1.0,0.0,Omar
+Antonio,,Efrain Zamudio ,Activo,0.8,0.0,1.0,0.0,Aurelio
+Antonio,,Rivera Castillo,Activo,0.8,1.0,0.0,0.0,Aurelio
+Ana,,Alan Quintero Munive,Activo,0.7,0.0,1.0,0.0,Pedro
+Ana,,Omar Garcia Vazquez,Activo,0.7,0.0,1.0,0.0,Aurelio
+Ana ,,Victor Arrroyo Tecnom,Activo ,0.7,1.0,0.0,0.0,Pedro
+Ana,,Hugo Jirge Regalado Castaneda,Activo,0.6,0.0,0.0,0.0,Pedro Antonio
+Ana,,"Arizbeck  Ortiz, ",Activo,0.7,1.0,0.0,0.0,Aurelio
+Ana,,"David  Torres , Ramirez ",Activo,0.8,0.0,1.0,0.0,Mauricio
+Ana,,Vanessa  Maza ,Activo,0.8,0.0,0.0,1.0,Alvaro
+Antonio,,Hugo Jirge Regalado  Castaneda ,Activo,0.7,0.0,1.0,0.0,Pedro Antonio
+Antonio,,"Jean  Simoni, ",Activo,0.7,0.0,1.0,0.0,Omar
+Antonio,,Gustavo Rojas ,Activo,0.7,0.0,1.0,0.0,Victor
+Ana,,"Rafael  Chocolatl, Cervantes",Activo,0.8,1.0,0.0,0.0,Aurelio
+Ana,,"Dionisio Arce, Martinez",Activo,0.8,0.0,0.0,0.0,Cesar
+Antonio,,Mauel  Ramirez ,Activo ,0.7,0.0,1.0,0.0,Julio Cesar
+Ana,,"Roberto Carlos Parra, Castelan",Activo,0.7,1.0,1.0,0.0,Julio Cesar
+Ana,,Jose Luis Martinez,Activo,0.7,0.0,1.0,0.0,Alan
+Antonio,,"Oscar  Arroyo, ",Activo,0.8,1.0,0.0,0.0,Aurelio
+Antonio,,"Hector Alejandro Gonzalez Tapia  , ",Activo,0.7,0.0,1.0,0.0,Pedro Antonio
+Ana,,Cristian Ocampo ,Activo,0.7,1.0,1.0,0.0,Ignacio
+Ana,,"Gloria Elena  Benavides, ",Activo,0.8,0.0,1.0,0.0,Nancy
+Antonio,,Efrain Zamudio ,Activo,0.8,0.0,1.0,0.0,Aurelio
+Antonio,,Carolina  Ortega ,Activo,0.7,0.0,1.0,0.0,Aurelio
+Antonio,,"Hector Miguel  Fernandez , ",Activo,0.8,1.0,1.0,0.0,Pedro

@@ -1,0 +1,34 @@
+BDC ,Fecha,Nombre Cliente ,Estatus de Lead,Potencial de compra,PDM,SDC,Venta,Asesor Asignado
+Saul ,,Hugo Martines ,Activo ,0.6,1.0,1.0,,Alan
+Antonio,,Heriberto Solis Perez,Activo,0.6,1.0,1.0,0.0,Victor
+Antonio,,Julio Jimenez,Activo,0.7,1.0,1.0,1.0,Aurelio
+Antonio,,Edgar Corte ,Activo,0.7,0.0,0.0,0.0,Carlos Texis
+Saul ,,Grabiel Zamora ,Activo ,0.9,1.0,1.0,0.0,Mauricio 
+Saul ,,Ivan ,Activo,0.8,0.0,0.0,0.0,Nos vista lunes 7
+Saul,,Anthony,Activo,0.8,1.0,1.0,0.0,Nos visita el sabado 5
+Antonio,,Ernesto Vega,Activo,0.8,1.0,1.0,1.0,Alan Gonzalez
+Saul ,,Hector Cortes ,Activo ,0.85,1.0,0.0,0.0,Alan Gonzalez
+Antonio,,Gabriel,Activo,0.8,1.0,1.0,0.0,Aurelio
+Saul ,,Fausto,Activo ,0.8,1.0,1.0,0.0,Ricardo 
+Antonio,,Javer Moreno,Activo,0.8,0.0,0.0,0.0,Alan
+Saul,,Roberto Paz Rojano ,Activo,0.8,0.0,0.0,0.0,Aurelio 
+Saul ,,Alfonso ,Activo,0.8,0.0,0.0,0.0,Pedro Antonio 
+Antonio,,Antonio/Talia,Acitvo ,0.8,0.0,1.0,1.0,Pedro Antonio 
+Antonio,,Marisol Luna,Acitvo ,0.8,1.0,1.0,0.0,Aurelio 
+Saul ,,Erick ,Finalizado ,0.7,1.0,1.0,0.0,Aurelio 
+Saul,,Karla ,Activo ,,0.0,0.0,0.0,Ignacio 
+Antonio,,Jose Hermenegildo ,Activo,0.8,1.0,1.0,0.0,Pedro Antonio 
+Antonio,,Jossmarr  Csm Gil ,Activo,0.9,1.0,1.0,1.0,Marcos coca
+Saul ,,Guillermina ,Activo ,0.9,1.0,1.0,0.0,Victor 
+Antonio,,Lorenzo Coyotl ,Activo,0.8,1.0,1.0,0.0,Mauricio
+Antonio,,Patricia Rios,Activo,0.6,1.0,0.0,0.0,Pedro Antonio 
+Antonio,,Armando Alvarez Morales,Activo,0.8,1.0,1.0,0.0,Mauricio
+Antonio,,Juan Manuel Infante,Activo,0.85,1.0,1.0,0.0,Marcos coca
+Saul,,Gustavo Rojas Garcia,Activo ,0.8,1.0,1.0,0.0,Victor 
+Saul,,Mauricio Garcia,Activo ,80.0,1.0,1.0,0.0,
+Antonio,,Susana Morales Gutierrez,Activo,0.8,1.0,0.0,0.0,Alan Gonzalez
+Antonio,,Valerio Figueroa,Activo ,0.8,1.0,0.0,0.0,Mauricio
+Antonio,,Sr Martinez,Activo,0.8,1.0,0.0,0.0,Marcos coca
+Antonio,,German Hernandez,Activo,0.6,1.0,0.0,0.0,Ignacio
+Saul ,,Oscar,Activo,0.8,0.0,1.0,0.0,Daniel 
+Antonio,,Alvaro Vega Tobón,Activo,0.8,1.0,1.0,1.0,Pedro

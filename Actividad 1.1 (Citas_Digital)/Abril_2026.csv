@@ -1,0 +1,61 @@
+BDC ,Fecha,Nombre Cliente ,Estatus de Lead,Potencial de compra,PDM,SDC,Venta,Asesor Asignado
+Antonio,,Carlos León,Activo ,0.7,0.0,0.0,0.0,Pedro Gonzalez
+Ana,,Jesus P,Activo,0.8,0.0,0.0,0.0,Carlos Mejia
+Ana,,JUAN DE DIOS NAVARRETE MENDEZ,Activo,0.7,0.0,1.0,0.0,Aurelio
+Ana,,Anyvia Jazmín Cruz Mendoza,Activo,0.7,0.0,0.0,0.0,Carlos Mejia
+Antonio,,Christofer,Activo,0.65,0.0,0.0,0.0,Mauricio
+Ana,,Simon Vega Aquiahuatl,Activo,0.7,0.0,1.0,0.0,Vanny
+Ana,,HECTOR JIMÉNEZ ALDAY,Activo,0.7,1.0,0.0,0.0,Mauricio
+Ana,,Jhonathan Bravo,Activo,0.8,1.0,0.0,0.0,Maurico
+Ana,,Cristobal,Activo,0.7,1.0,0.0,0.0,Mauricio
+Antonio,,MARÍA DEL CARMEN GRADOS,Activo,0.6,0.0,0.0,0.0,Aurelio
+Antonio,,Alejandro Cruz Adabache,Activo,,0.0,0.0,0.0,Alvaro
+Antonio,,Juan José castellon,Activo,0.8,0.0,0.0,0.0,Ivan
+Antonio,,Dianarely Marquez,Activo,0.6,0.0,0.0,0.0,Mauricio
+Ana,,Dr Julio Cesar,Activo,0.7,0.0,0.0,0.0,Vanny
+Ana,,David Omar Damián González,Activo,80.0,0.0,0.0,0.0,Victor
+Ana,,Arturo Delgado García,Activo,0.5,0.0,0.0,0.0,Victor
+Ana ,,Mario Moreno,Activo,0.8,0.0,0.0,0.0,Pedro
+Ana,,Victor Luciano Huerta Acosta Huerta,Activo,0.8,0.0,0.0,0.0,Pedro
+Ana,,Roberto Aguilar,Activo,0.7,0.0,0.0,0.0,Julio 
+Ana,,Rulo Vera,Activo,0.7,1.0,0.0,0.0,Nayeli
+Ana,,Rafael Cázares,Activo,0.8,0.0,0.0,0.0,Julio
+Ignacio ,,Antonio Escalona ,Activo ,0.5,1.0,1.0,0.0,Pedro Gonzalez 
+Ignacio ,,Martin Ortuño ,Activo ,0.7,0.0,0.0,0.0,Mauricio 
+Ignacio ,,Salvador Jasso ,Activo ,0.3,1.0,0.0,0.0,Mauricio 
+Ignacio ,,Luis Pelcastre ,Activo,0.3,0.0,0.0,0.0,Mauricio 
+Ignacio ,,Santa Garcia ,Activo,0.5,1.0,1.0,0.0,Carlos Hernandez 
+Ignacio ,,Gamaliel Vega ,Activo,0.5,1.0,1.0,1.0,Pedro 
+Ana,,Victor Hugo Narvaez,Activo,0.7,0.0,0.0,0.0,Mauricio 
+Ana,,EDGAR SILES,Activo,0.8,0.0,0.0,0.0,Julio
+Ana,,JAIRO ROJAS,Activo,0.7,0.0,0.0,0.0,Pedro 
+Ana,,Carlos Perez,Activo,0.8,0.0,0.0,0.0,Pedro
+Ana,,Arnold perales,Activo,0.7,0.0,0.0,0.0,Carlos Mejia
+Ana ,,Said Azpeitia Blanco,Activo-,0.7,0.0,0.0,0.0,Mauricio 
+Ignacio ,,Ricardo Gutierrez,Activo-,0.8,1.0,0.0,1.0,Mauricio 
+Ignacio ,,Jorge de gante,Activo-,,1.0,1.0,0.0,Pedro 
+Ignacio ,,Javier Aguilar ,Activo-,,0.0,0.0,0.0,Pedro 
+Ignacio ,,Marco Antonio Valencia ,Activo-,0.7,1.0,1.0,0.0,Mauricio 
+Igancio ,,Rocio Cortes ,Activo-,0.5,1.0,0.0,0.0,Mauricio 
+Ana ,,Armando Uribe Torres,Activo,0.8,1.0,0.0,0.0,Carlos Mejia
+Ignacio ,,Elias Dias Salgado ,Activo ,0.5,1.0,1.0,0.0,Mauricio 
+Ana,,andres Domínguez,Activo,0.6,1.0,0.0,0.0,Fatima
+Ana,,Rafael Sanchez,Activo,0.7,1.0,0.0,0.0,Mauricio
+Ana ,,Carlos Herrera,Activo,0.7,0.0,0.0,0.0,Mauricio
+Ana,,Daniel Morales Hernández,Activo,0.7,1.0,0.0,0.0,Julio Cesar
+Ana,,Jehu Rodriguez,Activo,0.7,1.0,0.0,0.0,Mauricio
+Ignacio ,,Juan Pablo Castellanos ,Activo,0.7,0.0,0.0,0.0,Victor Sanchez 
+Ana,,Pablo Archundia López,Activo,0.7,1.0,0.0,0.0,Mauricio
+,,JOSE LUIS,Activo,0.7,0.0,0.0,0.0,Mauricio
+,,Alejandro Tapia Rueda,Activo,0.7,0.0,0.0,0.0,Carlos
+,,Angel Perez,Activo,0.8,0.0,0.0,0.0,Vanny
+,,Julio Lopez,Activo,0.5,1.0,0.0,0.0,Pedro Gonzalez
+,,Miguel Antonio Fernandez,Activo,0.7,0.0,0.0,0.0,Nayeli
+,,Alejandro Sanchez,Activo,0.3,0.0,0.0,0.0,Julio Cesar
+,,Cesar Palafox,Activo,0.3,0.0,0.0,0.0,Vanny
+,,HUGO BADILLO,Activo,0.5,0.0,0.0,0.0,Alvaro
+,,,,,0.0,0.0,0.0,
+,,,,,0.0,0.0,0.0,
+,,,,,0.0,0.0,0.0,
+,,,,,0.0,0.0,0.0,
+,,,,,0.0,0.0,0.0,

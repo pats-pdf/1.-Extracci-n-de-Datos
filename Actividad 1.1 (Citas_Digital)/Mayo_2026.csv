@@ -1,0 +1,60 @@
+BDC ,Fecha,Nombre Cliente ,Estatus de Lead,Potencial de compra,PDM,SDC,Venta,Asesor Asignado
+Ignacio ,,Alan Guerrero ,Activo,,1.0,0.0,0.0,Mauricio 
+Ignacio ,,Larrisa Oidor ,,,0.0,1.0,0.0,Mauricio 
+Ignacio ,,Jorge Duran ,Activo ,,0.0,0.0,0.0,Pedro 
+Ignacio ,,Hector Reyes ,,,1.0,1.0,0.0,Pedro 
+Ana ,,Leo Rodríguez,Activo,,0.0,0.0,0.0,Mauricio
+Ana,,Neftali Lima Sanchez,Activo,,0.0,0.0,0.0,Julio
+Igancio ,,Alhdair Bonifacio Ramos ,Activo ,,0.0,0.0,0.0,Victor 
+Igancio ,,Gary Hernandez ,Activo ,,0.0,0.0,0.0,Vanny 
+Ana,,Edgar Alejandro,Activo,,0.0,1.0,0.0,Aurelio
+Ana,,Celestino Olivares Flores,Activo,,1.0,1.0,0.0,Pedro
+Ana,,Margarita Martìnez Mirand,Activo,,0.0,1.0,0.0,Mauricio
+Ana,,Armando Uribe Torres-,Activo,,0.0,0.0,0.0,Fatima
+Ana,,Jose F,Activo,,1.0,0.0,0.0,Julio
+Ana,,Jesus Flores sanchez,Activo,,1.0,0.0,0.0,Pedrp
+Ana,,JOSE IGNACIO,Activo,,1.0,0.0,0.0,Aurelio
+Ignacio ,,Fernando Duran ,Activo,,0.0,0.0,0.0,Pedro 
+Ignacio ,,Guillermo Benavides ,activo,,1.0,1.0,0.0,Pedro 
+Ignacio ,,Hugo Franco ,activo,,1.0,0.0,0.0,Aurelio
+Ignacio ,,Luis Enrique Palomares ,Activo,,0.0,0.0,0.0,Aurelio 
+Ana ,,Edgar Alejandro,Activo,,1.0,1.0,0.0,Aurelio
+Ana,,Eduardo Apodaca Espinosa,Activo,,0.0,1.0,0.0,Aurelio
+Ana,,Marco xs,Activo,,1.0,0.0,0.0,Julio
+Ana,,JOSE SANCHEZ,Activo,,0.0,1.0,0.0,Aurelio
+Ana ,,Roberto Garcia ,Activo,,0.0,1.0,0.0,Pedro
+Ana,,Gustavo Melendez,Activo,,0.0,1.0,0.0,Aurelio
+Ignacio ,,Ruben Lopez ,Activo,,1.0,1.0,0.0,Mario 
+Ignacio ,,Jaime trejo ,Activo ,0.7,1.0,1.0,0.0,Pedro 
+Igancio ,,Alma Sanchez ,Activo ,,0.0,0.0,0.0,Pedro 
+Ignacio ,,Carlos Cervantes ,Activo ,,0.0,0.0,0.0,Mauricio 
+Ignacio ,,Santa Garcia ,Activo ,1.0,1.0,1.0,1.0,Carlos 
+Ignacio ,,Raul Miranda ,Activo ,1.0,0.0,1.0,1.0,Mauricio 
+Ana ,,Juan Manuel Hernández,Activo,,1.0,0.0,0.0,Fatima
+Ana,,Ramon Castro Vite,Activo,,1.0,1.0,0.0,Fatima
+Ana,,Ernesto Pachuca,Activo,,0.0,1.0,0.0,Carlos Mejia
+Ana,,Adalyn montiel morales,Activo,,1.0,0.0,0.0,Pedro
+Ana,,EVERT VALVERDE JIMENEZ,Activo,,1.0,0.0,0.0,Mario
+Ana,,Benjamin Sanchez,Activo,,1.0,1.0,0.0,Aurelio
+Ana,,Quiroz Daniel,Activo,,1.0,0.0,0.0,Mauricio
+Ignacio ,,Armando Briones ,Activo ,0.5,0.0,1.0,0.0,Pedro 
+Ana,,Salomon Sanchyez,,,0.0,0.0,0.0,Vanny
+Ana,,Adriana F,Activo,,1.0,0.0,0.0,Carlos Mejia
+Ana,,Angel Romo,,,1.0,0.0,0.0,Vanny
+Ignacio ,,Juan Carlos Carreto ,,0.5,0.0,1.0,0.0,pedro 
+Ignacio ,,Alberto SR,,0.5,0.0,1.0,0.0,Pedro 
+Ana,,Sebastian F,,,1.0,0.0,0.0,Pedro
+Ana,,Jorge G,,,1.0,1.0,0.0,Victor
+Ignacio ,,Fernando Zárate ,Activo ,0.7,1.0,1.0,0.0,Victor 
+Igancio ,,Karla Marquez ,Activo ,0.7,0.0,0.0,0.0,Pedro 
+Ana,,ansony f,Activo,0.7,1.0,0.0,0.0,Aurelio
+Ana,,Jorge A Quiroz,Activo,0.7,1.0,0.0,0.0,Pedro
+Ignacio ,,Michel Taja ,Activo ,0.5,0.0,0.0,0.0,Aurelio 
+Ignacio ,,Jairo Rodriguez ,Activo ,0.5,0.0,0.0,0.0,Victro 
+Ignacio ,,Arturo Lopez ,Activo ,0.5,0.0,0.0,0.0,Pedro
+Ignacio ,,Yolanda Castellanos ,Activo ,1.0,0.0,1.0,1.0,Victor 
+Ana ,,Juan Roque,Activo ,1.0,1.0,1.0,0.0,Aurelio
+Igancio ,,Maria guadalupe Serrano ,Activo ,1.0,0.0,0.0,1.0,Victor 
+Ana,,MARCO ANTONIO CHARTUNI,Activo,0.8,0.0,1.0,0.0,Aurelio
+Ana,,Alexey ,Activo ,1.0,1.0,1.0,0.0,Ana
+Ana,,Brenda Lucero,Activo ,1.0,1.0,1.0,0.0,VICTOR

@@ -1,0 +1,60 @@
+BDC ,Fecha,Nombre Cliente ,Estatus de Lead,Potencial de compra,PDM,SDC,Venta,Asesor Asignado
+Ana ,,"Sixto Tito  Guzman, Varela",Activo,0.8,1.0,1.0,0.0,Jhosslan
+Antonio,,Rogelio Hernandez,Activo,0.95,1.0,1.0,1.0,Aurelio
+Ana,,Juan Francisco Olvera Alarcon,Ativo,0.7,0.0,1.0,0.0,Ignacio
+Ana,,Gonzalo Chavez,Activo,0.8,0.0,0.0,0.0,Aurelio
+Ana,,Jesus Gilbert  Cano ,Activo,0.6,0.0,0.0,0.0,Aurelio
+Antonio,,Eliseo Huerta,Activo,0.7,1.0,1.0,0.0,Aurelio
+Antonio,,Javier  Reyes,Activo,0.8,0.0,1.0,0.0,Jhosslan
+Ana,,Joaquin Moreno,Activo,0.8,0.0,1.0,0.0,Alan
+Ana ,,Jose  Luis   Salazar  ,Activo,0.8,0.0,0.0,0.0,Victor
+Antonio,,Jose Luis Pelcastre,Activo,0.75,1.0,1.0,0.0,Ignacio
+Antonio,,Jennifer,Activo,0.6,1.0,1.0,0.0,Pedro
+Ana,,Enrique  Enrique  Herrera,Activo,0.7,0.0,0.0,0.0,Julio
+Ana ,,Ivan Emilio,Activo,0.85,0.0,1.0,0.0,Antonio
+Ana,,Jose Abraham Zamora Arenas,Activo,0.8,0.0,1.0,0.0,Ricardo
+Antonio,,Gustavo Rojas Garcia,Activo,0.8,1.0,1.0,0.0,Victor
+Ana ,,Carmen  Ortega ,Activo,0.8,0.0,1.0,0.0,Victor
+Ana,,Raul Delgado,Activo,0.7,1.0,1.0,0.0,Alan
+Antonio,,Adan Fuentes ,Activo,0.85,1.0,1.0,0.0,Pedro
+Ana,,Jose Reyes,Activo,0.7,0.0,0.0,0.0,Pedro
+Antonio,,Humberto Maldonado Garcia,Activo,0.65,1.0,1.0,0.0,Pedro
+Antonio,,Miguel Vasquez San Pablo ,Activo,0.7,0.0,0.0,0.0,Mauricio
+Ana,,Carolina Ortega,Activo,0.8,0.0,1.0,0.0,Aurelio
+Antonio,,Alejandro Vivas,Activo,0.8,0.0,0.0,0.0,Aurelio
+Ana ,,Jose Manuel Martinez Rodriguez,Activo,0.8,0.0,1.0,0.0,Aurelio
+Antonio,,Juan mercado González,Activo,0.8,0.0,1.0,0.0,Omar
+Ana,,Martin Magdaleno  Rodriguez ,Activo,0.8,0.0,1.0,0.0,Omar
+Ana,,Christian Capetillo,Activo,0.8,0.0,1.0,1.0,Omar
+Ana,,Jose Manuel Morales Gomez,Activo,0.8,0.0,1.0,0.0,Omar
+Ana ,,Orlando  Cuahutle,Activo,0.8,0.0,1.0,0.0,Julio
+Ana,,Joselin Ramirez  Escobar,Activo,0.7,0.0,1.0,0.0,Alan
+Antonio,,Rafael Davila,Activo,0.65,1.0,0.0,0.0,Alan
+Ana,,Felix Luna Baleon,Activo,0.8,0.0,1.0,0.0,Jhoslan
+Ana,,Luis Munoz ,Activo ,0.8,0.0,1.0,0.0,Mauricio
+Antonio,,Monserrat Torres,Activo,0.6,0.0,1.0,0.0,Omar
+Antonio,,Alberto Acocal ,Activo,0.8,1.0,1.0,0.0,Aurelio
+Ana,,Diego Martinez,Activo,0.9,0.0,0.0,0.0,Aurelio
+Ana,,Cesar Cabrera Ortega ,Activo,0.7,1.0,1.0,0.0,Victor
+Ana,,Diana  Hernandez ,Activo,0.8,0.0,1.0,0.0,Victor
+Ana,,Francisco  Mier ,Activo,0.8,0.0,1.0,0.0,Aurelio
+Ana ,,Margarita Diaz Garcia ,Activo,0.8,1.0,1.0,1.0,Pedro
+Antonio,,Teresa Guadalupe  Guillen Venegas,Activo,0.75,0.0,1.0,1.0,Mauricio
+Antonio,,Adair Lopez,Activo,0.6,1.0,1.0,0.0,Victor
+Ana,,Jairo Samuel  Pineda Velasquez,Activo,0.7,0.0,1.0,0.0,Mauricio
+Ana ,,"Miriam Lizbeth Ruiz, Zamudio",Activo,0.85,0.0,1.0,0.0,Nancy
+Ana,,Imelda  Valencia  Sanchez,Activo,0.8,1.0,1.0,0.0,Victor
+Antonio,,"Luis  Jorge , ",Activo,0.8,0.0,1.0,0.0,Ignacio
+Ana ,,Waldo Pichon ,Activo,0.8,1.0,1.0,0.0,Victor
+Ana,,"Taide Cordoba, Sandoval",Activo,0.7,0.0,1.0,0.0,Aurelio
+Antonio,,"Sandi  Hernandez , ",Activo,0.85,0.0,1.0,0.0,Ignacio
+Ana,,"Adriana  Zarate, Apolinar",Activo,0.7,0.0,1.0,0.0,Aurelio
+Antonio,,Victor  Lorenzana ,Activo,0.65,1.0,1.0,0.0,Mauricio
+Antonio,,"Antonio Ojeda  , ",Activo,0.7,0.0,1.0,0.0,Pedro Antonio
+Ana,,Mario Alberto Medrano Mayo,Activo,0.8,0.0,1.0,0.0,Mauricio
+Antonio,,Antonio De Jesus Lima Hernandez,Activo,0.8,1.0,1.0,0.0,Mauricio
+Ana ,,"Antonio  Lopez, ",Activo,0.8,0.0,1.0,1.0,Marcos
+Antonio,,"Todoro Lopez, ",Activo,0.7,1.0,1.0,0.0,Pedro
+Ana,,"Martin Vazquez  , ",Activo,0.65,0.0,1.0,0.0,Pedro Antonio
+Antonio,,"Israel Chavez  , ",Activo,0.8,0.0,1.0,0.0,Pedro Antonio
+Antonio,,Rocio Lopez Mesa,Activo,0.8,1.0,1.0,0.0,Mauricio

@@ -1,0 +1,27 @@
+BDC ,Fecha,Nombre Cliente ,Estatus de Lead,Potencial de compra,PDM,SDC,Venta,Asesor Asignado
+Antonio,,Edgar Becerril,Venta,0.8,1.0,1.0,1.0,Ricardo 
+Antonio,,Quetzalli Fernanda,Acitvo ,0.8,1.0,1.0,0.0,Ricardo 
+Saul ,,Antonio ,Finalizado,0.9,1.0,0.0,,Mauricio 
+Saul ,,Estela Hernandez,Finalizado ,0.7,1.0,1.0,0.0,Mauricio 
+Saul ,,Arturo Sanchez ,Finalizado ,0.9,1.0,1.0,0.0,Referido Pablo
+Antonio,,Anselmo Villarreal Rodas,Finalizado,0.7,1.0,1.0,0.0,Eduardo 
+Antonio,,Andres Fernandez Martinez ,Finalizado,0.9,1.0,0.0,0.0,Eduardo 
+Saul ,,Ulises Alejo ,Finalizado ,0.8,1.0,0.0,0.0,Nancy
+Saul ,,Jose alberto ,Finalizado ,0.7,0.0,0.0,0.0,Aurelio 
+Saul ,,Adilene Ruiz,Venta,0.9,1.0,1.0,1.0,Mauricio 
+Saul ,,Gerardo garcia ,Finalizado,0.6,1.0,0.0,,Eduardo 
+Saul ,,Erick Calderón,Finalizado ,0.8,1.0,0.0,0.0,Ricardo 
+Saul ,,Jose Luis,Venta,0.95,1.0,1.0,1.0,Victor 
+Saul ,,Cesar  Aguilar,Venta,0.8,1.0,1.0,1.0,Victor 
+Saul ,,Christian ,Venta,0.8,1.0,0.0,0.0,Aurelio 
+Antonio,,Diego Cabrejiz,Activo,0.8,1.0,0.0,1.0,Nancy
+Antonio,,Sergio Osorno,Acitvo ,0.8,1.0,1.0,0.0,Pedro
+Antonio,,Jossmarr Csm Gil,Activo,0.7,1.0,1.0,0.0,Pedro/Eduardo
+Saul ,,Pedro Bello,Venta,0.8,1.0,1.0,1.0,CASA 
+Antonio,,Herrera Erick/Maria del Carmen,Venta,0.75,1.0,1.0,1.0,Pedro
+Saul ,,David,Acrivo,0.9,1.0,1.0,0.0,Aurelio 
+Antonio,,Lia Vera,Venta,0.85,1.0,1.0,1.0,Victor 
+Antonio,,Francisco Mier,Activo,0.7,1.0,0.0,0.0,Victor 
+Antonio,,Ricardo Pedraza Perez  ,Activo,0.9,1.0,1.0,1.0,Aurelio 
+Antonio/Saul ,,Clementina ,Venta,0.85,1.0,1.0,1.0,Ricardo 
+,,,,,0.0,0.0,0.0,
